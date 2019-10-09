@@ -1,0 +1,42 @@
+!! Appearance
+URxvt.termName:   rxvt-256color
+URxvt.scrollBar:  false
+Xft.dpi:          88
+Xft.antialias:    true
+Xft.rgba:      	  rgb
+Xft.hinting:      true
+Xft.hintstyle:    hintslight
+
+!! Transparency settings
+URxvt.transparent:     true
+URxvt.shading:         15
+URxvt.depth:           32
+!! URxvt.inheritPixmap: true
+
+!! Fonts
+!URxvt.font:        xft:mononoki:pixelsize=9:antialias=true,xft:monospace
+URxvt.font: xft:Hack:size=9
+!URxvt.boldFont:    xft:mononoki:pixelsize=9:weight=bold:antialias=true,xft:monospace
+URxvt.letterSpace: 0
+urxvt.foreground:       #ffffff
+
+!! Larger history limit
+URxvt.saveLines:  1000000
+
+URxvt*color0: #ff48c0
+URxvt*color1: #f22eac
+URxvt*color2: #86b9d0
+URxvt*color3: #6cc3e0
+URxvt*color4: #d66c90
+URxvt*color5: #ff02a1
+URxvt*color6: #60d1b5
+URxvt*color7: #c43f8e
+URxvt*color8: #d9138c
+URxvt*color9: #35479f
+URxvt*color10: #3b2588
+URxvt*color11: #880b75
+URxvt*color12: #a91f99
+URxvt*color13: #234f74
+URxvt*color14: #2523a8
+URxvt*color15: #0b3b43
+

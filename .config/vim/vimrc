@@ -1,0 +1,8 @@
+syntax on
+filetype on
+
+set number
+set background dark
+
+"Pathogen
+execute pathogen#infect()
